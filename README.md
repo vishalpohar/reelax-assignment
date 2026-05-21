@@ -6,7 +6,7 @@ A pixel-perfect and fully responsive implementation of the Reelax checkout page 
 
 ## Live Demo
 
-🔗 Live Website: https://ecommerce-store-nu-pied.vercel.app/
+🔗 Live Website: https://reelax-assignment-psi.vercel.app
 
 ## GitHub Repository
 
