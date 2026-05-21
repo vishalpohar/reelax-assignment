@@ -10,7 +10,7 @@ const RadioOption = ({ code, description, selected, onSelect }) => {
         gap-4
         p-3
         bg-white
-        border-2
+        border
         rounded
         transition-all duration-200
         ${selected ? "border-[#1977F2]" : "border-[#EAEAEA]"}
